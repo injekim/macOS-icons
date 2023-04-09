@@ -4,9 +4,9 @@
 ## icons
 ### Applications
 
- [DataSpell](./icons/DataSpell)                      |
-:---------------------------------------------------:|
- <img src="./thumbnails/DataSpell.png" width="128"/> |
+ [DataSpell](./icons/DataSpell)                      | [Google Drive](<./icons/Google Drive>)                |
+:---------------------------------------------------:|:-----------------------------------------------------:|
+ <img src="./thumbnails/DataSpell.png" width="128"/> | <img src="./thumbnails/Google Drive.png" width="128"/>|
 
 ### Hardwares
 
