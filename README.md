@@ -1,5 +1,5 @@
 # macOS icons
-> A collection of random macOS icons I made whenever I needed to
+> A random collection of macOS icons I made whenever I needed to
 
 ## icons
 ### Applications
