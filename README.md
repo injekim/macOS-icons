@@ -4,9 +4,9 @@
 ## icons
 ### Applications
 
- [DataSpell](./icons/DataSpell)                      | [Geekbench](<./icons/Geekbench>)                      | [Google Drive](<./icons/Google Drive>)                |
-:---------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
- <img src="./thumbnails/DataSpell.png" width="128"/> | <img src="./thumbnails/Geekbench.png" width="128"/>   | <img src="./thumbnails/Google Drive.png" width="128"/>|
+ [DataSpell](./icons/DataSpell)                      | [Geekbench](<./icons/Geekbench>)                      | [Google Drive](<./icons/Google Drive>)                | [VLC](./icons/VLC)                                    |
+:---------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
+ <img src="./thumbnails/DataSpell.png" width="128"/> | <img src="./thumbnails/Geekbench.png" width="128"/>   | <img src="./thumbnails/Google Drive.png" width="128"/>| <img src="./thumbnails/VLC.png" width="128"/>         |
 
 ### Hardwares
 
