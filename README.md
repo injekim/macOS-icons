@@ -10,6 +10,10 @@
 
 ### Hardwares
 
- [WD Blue](<./icons/WD Blue>)                        | [WD Green](<./icons/WD Green>)                      | [microSD](./icons/microSD)                            | [Crucial X6](<./icons/Crucial X6>)                    |
-:---------------------------------------------------:|:---------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
- <img src="./thumbnails/WD Blue.png" width="128"/>   | <img src="./thumbnails/WD Green.png" width="128"/>  | <img src="./thumbnails/microSD.png" width="128"/>     | <img src="./thumbnails/Crucial X6.png" width="128"/>  |
+ [WD Blue](<./icons/WD Blue>)                        | [WD Green](<./icons/WD Green>)                      | [WD My Passport](<./icons/WD My Passport>)              | [Crucial X6](<./icons/Crucial X6>)                    |
+:---------------------------------------------------:|:---------------------------------------------------:|:-------------------------------------------------------:|:-----------------------------------------------------:|
+ <img src="./thumbnails/WD Blue.png" width="128"/>   | <img src="./thumbnails/WD Green.png" width="128"/>  | <img src="./thumbnails/WD My Passport.png" width="128"/>| <img src="./thumbnails/Crucial X6.png" width="128"/>  |
+
+ [microSD](./icons/microSD)                          |
+:---------------------------------------------------:|
+ <img src="./thumbnails/microSD.png" width="128"/>   |
